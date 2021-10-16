@@ -5,6 +5,12 @@ We present MMFT-BERT(MultiModal Fusion Transformer with BERT encodings), to solv
 
 Paper link: https://arxiv.org/pdf/2010.14095.pdf
 
+This code repo is modified from TVQA codebase. 
+## dataset
+Follow instructions on TVQA github repo to download data. 
+
+## work in progress...
+
 ### Bibtex
 ```
 @misc{khan2020mmftbert,
