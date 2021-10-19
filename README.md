@@ -9,7 +9,16 @@ This code repo is modified from TVQA codebase.
 ## dataset
 Follow instructions on TVQA github repo to download data. 
 
+### Training files
+`main_dict_multiple_losses.py` is the main file for training.
+`tvqa_vqa_2bert_bertfusion_sub.py` is the model definition. 
+`tvqa_dataset_vqa_bert_attn.py` has the dataloader for TVQA dataset. 
+
+<!-- To train the system, run the following command: 
+`python main_dict_multiple_losses.py --input_streams vcpt sub` -->
+
 ## work in progress...
+
 
 ### Bibtex
 ```
