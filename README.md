@@ -17,6 +17,8 @@ unzip data.zip
 
 Copy the extracted fiels into the data directory.
 
+Download tvqa vocab and indexing dictionaries from [here](https://drive.google.com/file/d/1rkWn0wer_fRksg8OrDXNoMwK4GfKD52Z/view?usp=sharing) and unzip them in the cache folder by using `unzip cache.zip` inside `cache/` directory.
+
 ### Training files
 `main_dict_multiple_losses.py` is the main file for training.
 `tvqa_vqa_2bert_bertfusion_sub.py` is the model definition. 
