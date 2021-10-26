@@ -15,7 +15,7 @@ Alternatively, the processed data files are provided [here](https://drive.google
 unzip data.zip
 `
 
-Copy the extracted fiels into the data directory.
+Copy the extracted files into the data directory.
 
 Download tvqa vocab and indexing dictionaries from [here](https://drive.google.com/file/d/1rkWn0wer_fRksg8OrDXNoMwK4GfKD52Z/view?usp=sharing) and unzip them in the cache folder by using `unzip cache.zip` inside `cache/` directory.
 
