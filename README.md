@@ -27,19 +27,30 @@ Download tvqa vocab and indexing dictionaries from [here](https://drive.google.c
 <!-- To train the system, run the following command: 
 `python main_dict_multiple_losses.py --input_streams vcpt sub` -->
 
-## work in progress...
+
 
 
 ### Bibtex
 ```
-@misc{khan2020mmftbert,
-      title={MMFT-BERT: Multimodal Fusion Transformer with BERT Encodings for Visual Question Answering}, 
-      author={Aisha Urooj Khan and Amir Mazaheri and Niels da Vitoria Lobo and Mubarak Shah},
-      year={2020},
-      eprint={2010.14095},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@inproceedings{urooj-etal-2020-mmft,
+    title = "MMFT-BERT: Multimodal Fusion Transformer with BERT Encodings for Visual Question Answering",
+    author = "Urooj, Aisha  and
+      Mazaheri, Amir  and
+      Da vitoria lobo, Niels  and
+      Shah, Mubarak",
+    editor = "Cohn, Trevor  and
+      He, Yulan  and
+      Liu, Yang",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2020",
+    month = nov,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2020.findings-emnlp.417",
+    doi = "10.18653/v1/2020.findings-emnlp.417",
+    pages = "4648--4660",
 }
+
 ```
 
-Code and details coming soon...
+
